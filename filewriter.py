@@ -1,5 +1,6 @@
 # Author : Vivek Mathew
 # Email  : vivekgmathew@gmail.com
+# A Generic Writer Class.
 
 import abc
 from datetime import datetime
